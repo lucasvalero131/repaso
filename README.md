@@ -1,4 +1,4 @@
-# tareaRecuperacion
+# Tarea Recuperacion
 
 **Completar cuadro.**
 
