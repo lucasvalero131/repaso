@@ -16,4 +16,14 @@
 
 ![22](https://github.com/lucasvalero131/tareaRecuperacion/assets/145476792/41b8ee2f-d0d5-4613-b936-bd7ff643ee07)
 
-3) 
+3.1) 
+
+![image](https://github.com/lucasvalero131/tareaRecuperacion/assets/145476792/415b3684-4699-4c8e-8682-490b140d3ca2)
+
+**Explicacion: Como las dos direcciones de red son diferentes, las IPS no estan en la misma red, por lo que no será accesible el equipo 192.123.0.53 desde 192.168.123.222, pero tiene una puerta de enlace que si se lo permite**
+
+3.2) 
+
+![image](https://github.com/lucasvalero131/tareaRecuperacion/assets/145476792/9d854e2c-2ef5-41e0-835f-d72120833511)
+
+**Explicacion: Si pueden acceder al otro equipo ya que pertenecen a la misma red**
