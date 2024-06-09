@@ -29,3 +29,5 @@
 **Explicacion: Si pueden acceder al otro equipo ya que pertenecen a la misma red**
 
 # 4)
+
+![image](https://github.com/lucasvalero131/tareaRecuperacion/assets/145476792/f478e3aa-1b3a-4022-9cd0-f1b09e50e81d)
